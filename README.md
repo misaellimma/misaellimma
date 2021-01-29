@@ -1,6 +1,20 @@
 ### E ai galera!! 😎✌
 
+ <a href="https://www.linkedin.com/in/misaellimma/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
+</a>
+<a href="https://www.instagram.com/misaellimma/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" >
+</a>
+
 - 🌱 Atualmente estou aprendendo HTML, JavaScript, CSS, PHP, MYSQL.
+
+<strong>Conhecimentos:</strong>
+<div>
+<img style="padding: 5px;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" >
+  <p>  </p>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
+</div>
 <!--
 **misaellimma/misaellimma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
