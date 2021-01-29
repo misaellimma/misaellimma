@@ -9,11 +9,14 @@
 
 - 🌱 Atualmente estou aprendendo HTML, JavaScript, CSS, PHP, MYSQL.
 
-<strong>Conhecimentos:</strong>
+<strong>Conhecedor:</strong>
+
 <div>
-<img style="padding: 5px;" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" >
-  <p>  </p>
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 <!--
 **misaellimma/misaellimma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
