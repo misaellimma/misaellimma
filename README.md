@@ -1,5 +1,6 @@
-### Hi there 👋
+### E ai galera!! 😎✌
 
+- 🌱 Atualmente estou aprendendo HTML, JavaScript, CSS, PHP, MYSQL.
 <!--
 **misaellimma/misaellimma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
